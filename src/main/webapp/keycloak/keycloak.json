@@ -1,0 +1,8 @@
+{
+  "realm": "autentia",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiwBRXJWQu0XYIRoCen+2vmEMtkAXBs1nnIQQHJ0/IxxnVP9LwJUOX2/PYBBAaQlF2NEpTh2jMXAdPOwBDF8Vrc+25cbWIW47keUlNPmvZIMWJORIbcYmMZBBJrolSe3P5M3K8Lu75MLf1Fo6OQ6I+h0QSaifj8EQUBOYhXFL9enlC89HIHtAdddmVLPtMy2yoDFgzU8KKgo3bH0lbay8iwOrk+EHlorZHivfMjC8z1fhQq4d3aV9KXyhWQPs//SZLb+f4KcKVzdu43zA4r3UICml/JAPhP9LWIQXJXJ/Y6i90Ye4hUhXrQEe0N2I/C8w6Z9TOeYA6pp1WEktsnT7WwIDAQAB",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "account-frontend",
+  "public-client": true
+}
